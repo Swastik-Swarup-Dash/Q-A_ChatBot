@@ -8,4 +8,5 @@ langchain-text-splitters
 langchain-huggingface
 sentence-transformers
 langchain-ollama
-streamlitS
+streamlit
+langchain-google-genai
