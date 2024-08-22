@@ -1,0 +1,11 @@
+langchain
+python-dotenv
+ipykernel
+langchain_community
+bs4
+arxiv
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+langchain-ollama
+streamlitS
